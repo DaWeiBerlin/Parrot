@@ -10,7 +10,10 @@ git push -u origin main
 Änderungen Speichern
 
 git add .
-git commit -m "first commit"
+git commit -m "Änderung benennen"
 git push
 
+Anderungen abrufen
+git init
+git pull Parrot HEAD
 
