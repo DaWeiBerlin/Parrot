@@ -15,5 +15,5 @@ git push
 
 Anderungen abrufen
 git init
-git pull Parrot HEAD
+git pull
 
