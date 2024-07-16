@@ -1,0 +1,18 @@
+.note{
+    width: 25%;
+    height: fit-content;
+    background-color: aquamarine;
+    border: black;
+    padding: 20px;
+    margin: 20px;
+}
+
+#content{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
